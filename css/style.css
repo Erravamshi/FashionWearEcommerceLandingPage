@@ -985,9 +985,8 @@ footer .copy-right {
 	position: fixed;
 	bottom: 8%;
 	right: 2%;
-	z-index: 2;
-	opacity: 0.2;
-	background-color: rgba(255, 255, 255, 0);
+	z-index: 4;
+	background-color: rgba(255, 255, 255, 1);
 }
 
 .back-to-top:hover {
